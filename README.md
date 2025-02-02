@@ -1,4 +1,4 @@
-**#🎮 Quiz Challenge – Gamified Quiz App(H1)**
+# **🎮 Quiz Challenge – Gamified Quiz App**
 
 **📌 About the Project-**
 
