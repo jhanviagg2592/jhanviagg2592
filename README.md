@@ -1,6 +1,6 @@
 # **🎮 Quiz Challenge – Gamified Quiz App**
 
-**📌 About the Project-**
+###**📌 About the Project-**
 
 Welcome to the Quiz Challenge – a fun and interactive web-based quiz application! 🎉
 
@@ -8,7 +8,7 @@ This app tests your knowledge with multiple-choice questions while keeping track
 
 The app is built using HTML, CSS, and JavaScript, and it fetches questions dynamically from an API. Whether you're here to learn, practice, or just have fun, this quiz app is designed to keep you engaged! 😃
 
-**🎯 What Makes This Quiz App Special?**
+###**🎯 What Makes This Quiz App Special?**
 
 ✅ Dynamically Loaded Questions – No fixed questions! They are fetched from an API each time you play.
 ✅ Gamification Elements – Keeps you motivated with real-time scoring.
@@ -16,7 +16,7 @@ The app is built using HTML, CSS, and JavaScript, and it fetches questions dynam
 ✅ Instant Feedback – Check your score as you answer questions.
 ✅ Clean & Simple Code – Easy to understand and expand for developers.
 
-**🚀 How It Works**
+###**🚀 How It Works**
 
 1️⃣ Open the quiz app in your browser.
 2️⃣ A question with multiple-choice options will appear.
@@ -29,13 +29,13 @@ Sounds easy? Give it a try! 😃
 
 🔗 Where Do the Questions Come From?
 The app fetches quiz questions from an API endpoint:
-📌 https://api.jsonserve.com/Uw5CrX
+###📌 https://api.jsonserve.com/Uw5CrX
 
 If there’s an issue with the API, don’t worry! The app has error handling and will notify you if questions fail to load.
 
 *This app is built with:
 
-**Technology	Purpose-**
+###**Technology	Purpose-**
 
 HTML5	The structure of the quiz app
 CSS3	Styling, animations, and layout
@@ -58,10 +58,10 @@ Edit
 🎮 How to Run the Quiz App
 You can get this quiz up and running in less than a minute! ⏳
 
-**Option 1:** Open Directly
+###**Option 1:** Open Directly
 Just double-click on index.html, and it will open in your browser!
 
-**Option 2:** Run Locally (Recommended)
+###**Option 2:** Run Locally (Recommended)
 
 1️⃣ Clone the repository
 
@@ -81,6 +81,6 @@ cd quiz-app
 
 ✔️ Now you’re all set to start playing! 🚀
 
-**🎉 Final Thoughts-**
+###**🎉 Final Thoughts-**
 
 We hope you enjoy using this Quiz Challenge App as much as we enjoyed building it! This project is a great example of how learning can be fun with the right mix of technology and gamification. 🚀
