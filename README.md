@@ -58,7 +58,7 @@ Edit
 🎮 How to Run the Quiz App
 You can get this quiz up and running in less than a minute! ⏳
 
-###**Option 1:** Open Directly
+**Option 1:** Open Directly
 Just double-click on index.html, and it will open in your browser!
 
 **Option 2:** Run Locally (Recommended)
