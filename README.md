@@ -1,6 +1,6 @@
 # **🎮 Quiz Challenge – Gamified Quiz App**
 
-**📌 About the Project-**
+**📌About the Project-**
 
 Welcome to the Quiz Challenge – a fun and interactive web-based quiz application! 🎉
 
@@ -81,6 +81,6 @@ cd quiz-app
 
 ✔️ Now you’re all set to start playing! 
 
-** Final Thoughts-**
+**Final Thoughts-**
 
 We hope you enjoy using this Quiz Challenge App as much as we enjoyed building it! This project is a great example of how learning can be fun with the right mix of technology and gamification. 
