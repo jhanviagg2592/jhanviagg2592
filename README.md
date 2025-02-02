@@ -6,7 +6,7 @@ Welcome to the Quiz Challenge – a fun and interactive web-based quiz applicati
 
 This app tests your knowledge with multiple-choice questions while keeping track of your score. With a simple yet engaging UI, the quiz experience is smooth and enjoyable.
 
-The app is built using HTML, CSS, and JavaScript, and it fetches questions dynamically from an API. Whether you're here to learn, practice, or just have fun, this quiz app is designed to keep you engaged! 😃
+The app is built using HTML, CSS, and JavaScript, and it fetches questions dynamically from an API. Whether you're here to learn, practice, or just have fun, this quiz app is designed to keep you engaged! 
 
 **🎯 What Makes This Quiz App Special?**
 
@@ -16,7 +16,7 @@ The app is built using HTML, CSS, and JavaScript, and it fetches questions dynam
 ✅ Instant Feedback – Check your score as you answer questions.
 ✅ Clean & Simple Code – Easy to understand and expand for developers.
 
-**🚀 How It Works**
+**How It Works**
 
 1️⃣ Open the quiz app in your browser.
 2️⃣ A question with multiple-choice options will appear.
@@ -25,7 +25,7 @@ The app is built using HTML, CSS, and JavaScript, and it fetches questions dynam
 5️⃣ Click the Next button to move to the next question.
 6️⃣ Once all questions are answered, you’ll see a completion message with your final score.
 
-Sounds easy? Give it a try! 😃
+Sounds easy? Give it a try!
 
 🔗 Where Do the Questions Come From?
 The app fetches quiz questions from an API endpoint:
@@ -79,8 +79,8 @@ cd quiz-app
 
 3️⃣ Open index.html in a web browser
 
-✔️ Now you’re all set to start playing! 🚀
+✔️ Now you’re all set to start playing! 
 
-**🎉 Final Thoughts-**
+** Final Thoughts-**
 
-We hope you enjoy using this Quiz Challenge App as much as we enjoyed building it! This project is a great example of how learning can be fun with the right mix of technology and gamification. 🚀
+We hope you enjoy using this Quiz Challenge App as much as we enjoyed building it! This project is a great example of how learning can be fun with the right mix of technology and gamification. 
